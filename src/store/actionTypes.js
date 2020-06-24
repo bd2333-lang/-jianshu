@@ -1,0 +1,6 @@
+export  const CHANGE_INPUT  = 'chang_input'
+export  const ADD_ITEM  = 'add_item'
+export  const DELETE_ITEM  = 'delete_item'
+export  const INT_DATE  = 'int_data'
+export const  SEARCH_FOCUS =  'search_focus'
+export const  SEARCH_BLUR =  'search_blur'
